@@ -1,0 +1,7 @@
+[32m2024-01-16 21:49:16 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - LOGS_CAPTURED - Started capturing logs in process (pid: 63685).
+[32m2024-01-16 21:49:16 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - order_count_chart - STEP_START - Started execution of step "order_count_chart".
+[32m2024-01-16 21:49:17 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - order_count_chart - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2024-01-16 21:49:17 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - order_count_chart - Writing file at: /Users/jsh/Documents/Code/Projects/tutorial-dbt-dagster/jaffle_shop/jaffle_dagster/tmpm93qquub/storage/order_count_chart using PickledObjectFilesystemIOManager...
+[32m2024-01-16 21:49:17 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - order_count_chart - ASSET_MATERIALIZATION - Materialized value order_count_chart.
+[32m2024-01-16 21:49:17 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - order_count_chart - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2024-01-16 21:49:17 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5863d1d5-6918-4efa-983a-047d4b1bdf5d - 63685 - order_count_chart - STEP_SUCCESS - Finished execution of step "order_count_chart" in 685ms.
